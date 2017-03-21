@@ -1,4 +1,4 @@
-If database haven't been created you can execute it with the next query:
+If database hasn't been created you can execute it with the next query:
 
 CREATE SCHEMA STOCK;
 
